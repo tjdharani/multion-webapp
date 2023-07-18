@@ -2,7 +2,7 @@
 
 # MULTION Web 🚀
 
-**Build, deploy, and manage LLM-powered agents**
+**Your personal AI Agent**
 [multion.ai](https://multion.ai)
 
 <p>
